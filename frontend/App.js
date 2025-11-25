@@ -18,7 +18,7 @@ import * as Location from 'expo-location';
 import AsyncStorage from '@react-native-async-storage/async-storage';
 import { Ionicons } from '@expo/vector-icons';
 
-const API_BASE_URL = 'https://backend-y4ec.onrender.com';
+const API_BASE_URL = 'https://backend-y4ec.onrender.com/api';
 
 const BestNightApp = () => {
   const [screen, setScreen] = useState('home');
