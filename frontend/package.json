@@ -2,6 +2,7 @@
   "name": "frontend",
   "license": "0BSD",
   "version": "1.0.0",
+  "homepage": "https://martindkelly.github.io/BestNightDemo2",
   "main": "index.js",
   "scripts": {
     "start": "expo start",
